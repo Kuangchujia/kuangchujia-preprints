@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these preprints, please cite the Zenodo record of the individual paper."
+type: manuscript
+title: "中国历法与传统天文星象 · 科普稿预印本（11 篇）"
+abstract: >-
+  中国传统历法与传统天文星象的系列科普稿预印本集合，共 11 篇，逐篇发表于 Zenodo。
+  内容分两条线：其一是历法的构造与沿革——三本历法的关系、节气交节为何精确到秒、
+  岁首之月历代之变、时辰的起点与真太阳时；其二是古代天文与方位——黄道白道赤道、
+  三垣二十八宿、磁针出现之前的定向之法、干支符号的来历。
+  全部内容为科普整理，依公开文献与天文历算数据写成，不含预测性论断，亦不涉个体测算。
+authors:
+  - family-names: "邝"
+    given-names: "楚嘉"
+    alias: "虚竹"
+version: "1.0.0"
+date-released: "2026-09-16"
+license: "CC-BY-4.0"
+language: "zho"
+keywords:
+  - 中国传统历法
+  - 二十四节气
+  - 干支
+  - 二十八宿
+  - 中国古代天文学
+  - 预印本
+  - Chinese calendar
+  - solar terms
+  - Chinese astronomy
+  - preprints

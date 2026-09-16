@@ -1,0 +1,38 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 邝楚嘉
+
+本预印本集（含 preprints/ 与 metadata/ 两个目录下的全部文件，以及本仓库的 README）
+依 Creative Commons Attribution 4.0 International（CC BY 4.0）许可发布。
+
+—— 你可以自由地 ——
+
+  共享  Share
+    以任何媒介或格式复制、发行本作品。
+
+  演绎  Adapt
+    混合、转换、并以本作品为基础进行创作，用于任何目的，包括商业目的。
+
+—— 惟须遵守下列条件 ——
+
+  署名  Attribution
+    必须给出适当的署名，提供指向本许可协议的链接，并指明是否作了修改。
+    可以以任何合理方式署名，但不得以任何方式暗示许可人认可你或你的使用。
+
+  无附加限制  No additional restrictions
+    不得适用法律条款或技术措施，从而限制他人做本许可协议允许的事。
+
+—— 完整法律文本 ——
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+  （人类可读摘要：https://creativecommons.org/licenses/by/4.0/）
+
+—— 要求的署名格式 ——
+
+  邝楚嘉（虚竹）. 中国历法与传统天文星象 · 科普稿预印本 [Preprint]. 2026. CC BY 4.0.
+  单篇引用请使用该篇的 Zenodo DOI（见 README 篇目表）。
+
+—— 关于正文的版权状态 ——
+
+  各篇所引古籍均属公有领域；正文为作者自行整理与撰写。天文历算数据取自
+  JPL DE421 星历（NASA 喷气推进实验室，公有领域）与 Skyfield（MIT 许可）。
