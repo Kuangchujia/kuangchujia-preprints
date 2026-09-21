@@ -9,9 +9,9 @@
 
 | 项 | 地址 |
 |:---|:---|
-| **作者** | 邝楚嘉（Chujia Kuang）｜ 字虚竹 |
+| **作者** | 邝楚嘉（Chujia Kuang） |
 | **ORCID** | ⟨待补⟩ |
-| **个人主页 / 全部成果总入口** | <https://kuangchujia.wordpress.com> |
+| **个人主页 / 全部成果总入口** | <https://kuangchujia.com> |
 | **数据集 DOI（Zenodo）** | [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（concept DOI，永久指向最新版本） |
 | **配套数据集仓库** | <https://github.com/Kuangchujia/chinese-calendar-dataset> |
 | **本仓库** | <https://github.com/Kuangchujia/kuangchujia-preprints> |
@@ -23,7 +23,7 @@
 **配套数据集**：本系列所依据的历法公共数据集（二十四节气交节时刻、历代历法改革年表、干支纪日对照表）见 <https://github.com/Kuangchujia/chinese-calendar-dataset>，Zenodo concept DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)。该数据集由生成脚本自算而成，可复算、可核验，凡引用本系列任一预印本，如需追溯到具体的节气时刻或干支日序，请一并注明该数据集的 DOI。
 <!-- ANCHOR-BLOCK-END -->
 
-## 篇目（已发布 6／11）
+## 篇目（已发布 7／11）
 
 | 篇号 | 标题 | Zenodo DOI | 状态 |
 |:--:|:---|:---|:---|
@@ -32,7 +32,7 @@
 | 004 | 立春不是一整天，只有一秒钟 | [10.5281/zenodo.22837998](https://doi.org/10.5281/zenodo.22837998) | ✅ 已发布 |
 | 005 | 正月本来不是一月 | [10.5281/zenodo.22851039](https://doi.org/10.5281/zenodo.22851039) | ✅ 已发布 |
 | 006 | 古人的一天，从晚上十一点开始 | [10.5281/zenodo.22866122](https://doi.org/10.5281/zenodo.22866122) | ✅ 已发布 |
-| 007 | 钟表上的出生时间，不等于你出生的时辰 | — | 待发布 |
+| 007 | 钟表上的出生时间，不等于你出生的时辰 | [10.5281/zenodo.22884370](https://doi.org/10.5281/zenodo.22884370) | ✅ 已发布 |
 | 008 | 时间是怎么产生的？ | — | 待发布 |
 | 009 | 天上三条道：黄道、白道、赤道 | — | 待发布 |
 | 010 | 古人的星空：三垣与二十八宿 | [10.5281/zenodo.22797854](https://doi.org/10.5281/zenodo.22797854) | ✅ 已发布 |
