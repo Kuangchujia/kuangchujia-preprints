@@ -4,17 +4,20 @@
 
 **正式引用请使用各篇的 Zenodo DOI**（见下表；表内各号为 **concept DOI**，永久指向最新版本）。
 
+**站点入口（本仓库 Pages 首页 · 篇目与 PDF 直链）**：<https://kuangchujia.github.io/kuangchujia-preprints/>
+
 <!-- ANCHOR-BLOCK-BEGIN -->
 ## ★ 本项目在学术网络中的位置
 
 | 项 | 地址 |
 |:---|:---|
 | **作者** | 邝楚嘉（Chujia Kuang） |
-| **ORCID** | ⟨待补⟩ |
+| **ORCID** | [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X) |
 | **个人主页 / 全部成果总入口** | <https://kuangchujia.com> |
 | **数据集 DOI（Zenodo）** | [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（concept DOI，永久指向最新版本） |
 | **配套数据集仓库** | <https://github.com/Kuangchujia/chinese-calendar-dataset> |
 | **本仓库** | <https://github.com/Kuangchujia/kuangchujia-preprints> |
+| **站点（本仓库 Pages 首页）** | <https://kuangchujia.github.io/kuangchujia-preprints/> |
 
 **本仓库是什么**：本系列科普稿预印本的**镜像与备份入口**（PDF ＋ 书目元数据），与 Zenodo 上一一对应。本仓库提供同一批 PDF 的浏览与下载通道，每份 PDF 的内页题名块都已印有该篇 DOI。
 
@@ -46,6 +49,8 @@
 ```
 preprints/   已发布篇目的 PDF（文件名含篇号与标题，内页印有 DOI）
 metadata/    各篇在 Zenodo 上的书目元数据（title / description / keywords / license）
+index.html   本站 Pages 首页（publications 索引页，由 gh_preprints_sync.py 生成）
+.nojekyll    令 Pages 不走 Jekyll，仓库文件按原样送出
 ```
 
 ## 内容性质
