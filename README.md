@@ -1,5 +1,9 @@
 # 中国历法与传统天文星象 · 科普稿预印本（镜像）
 
+<!-- badges -->
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Preprints](https://img.shields.io/badge/preprints-12-blue.svg)](https://kuangchujia.github.io/kuangchujia-preprints/) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
+
 本仓库是「中国历法与传统天文星象」系列科普稿的**预印本镜像**，与发表在 **Zenodo** 上的预印本记录一一对应。写这些稿子，起因是一堆日常里被反复问到的问题：立春那天出生的孩子生肖该按哪个算、古人没有钟表怎么知道现在是几点、黄道和白道到底差在哪儿。这些问题看着零碎，底下其实是同一套历法与星象的知识，于是索性按顺序一篇篇写下来，写成一份可以按需查阅的整理稿。
 
 **正式引用请使用各篇的 Zenodo DOI**（见下表；表内各号为 **concept DOI**，永久指向最新版本）。
