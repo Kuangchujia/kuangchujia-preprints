@@ -2,11 +2,18 @@
   "title": "干支：从一棵树到二十二个字",
   "upload_type": "publication",
   "publication_type": "preprint",
-  "description": "<p>本文说明「干支」本作「幹枝」，取树干与枝条之意，起初并不是用来排序的符号。文章据东汉蔡邕《月令章句》所记讲其来路，并梳理十天干与十二地支这二十二个符号的构成。本文属中国传统历法与古代天文星象的科普整理，所述天文事实以传世文献与考古材料为依据。文中不含预测性论断，亦不涉个体测算。</p><p>（本预印本未经同行评议。）</p>",
+  "description": "<p>本文说明「干支」本作「幹枝」，取树干与枝条之意，起初并不是用来排序的符号。文章据东汉蔡邕《月令章句》所记讲其来路，并梳理十天干与十二地支这二十二个符号的构成。本文属中国传统历法与古代天文星象的科普整理，所述天文事实以传世文献与考古材料为依据。文中不含预测性论断，亦不涉个体测算。</p><p>（本预印本未经同行评议。）</p><p><strong>Data and code.</strong> The calendrical data underlying this note is openly available at <a href=\"https://doi.org/10.5281/zenodo.22788686\">10.5281/zenodo.22788686</a> (code: <a href=\"https://github.com/Kuangchujia/chinese-calendar-dataset\">github.com/Kuangchujia/chinese-calendar-dataset</a>). See also the full index at <a href=\"https://kuangchujia.com/publications/\">kuangchujia.com/publications</a>.</p>",
   "creators": [
     {
       "name": "邝楚嘉",
       "orcid": "0009-0002-7650-833X"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22788686",
+      "relation": "isPartOf",
+      "scheme": "doi"
     }
   ],
   "keywords": [
