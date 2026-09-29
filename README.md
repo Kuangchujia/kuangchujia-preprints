@@ -10,6 +10,8 @@
 
 **站点入口（本仓库 Pages 首页 · 篇目与 PDF 直链）**：<https://kuangchujia.github.io/kuangchujia-preprints/>
 
+*This repository mirrors the preprint series "Chinese Calendar and Traditional Astronomy", corresponding one for one with the preprint records published on Zenodo. The series began with questions that come up again and again in daily life: which zodiac year a child born on the first day of spring belongs to; how people knew the time without clocks; where exactly the ecliptic and the lunar path part ways. They look scattered, yet the same calendar and the same star system sit underneath, so the pieces were written out one by one, in order. **For formal citation, please use the Zenodo DOI of each piece** — the numbers in the table are concept DOIs, pointing permanently to the latest version. Site entry (this repository's Pages index, with links to each piece and its PDF): <https://kuangchujia.github.io/kuangchujia-preprints/>*
+
 <!-- ANCHOR-BLOCK-BEGIN -->
 ## ★ 本项目在学术网络中的位置
 
