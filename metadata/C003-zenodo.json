@@ -1,0 +1,50 @@
+{
+  "title": "曾侯乙墓漆箱二十八宿图：四象体系的下限",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>本文以湖北随县（今随州）擂鼓墩曾侯乙墓出土的「二十八宿图衣箱」（编号 E.66，年代一般定在公元前 433 年前后）为个例，讨论一件出土实物能为「四象体系」钉住哪一头。文中先立一条年代学界限：一件实物给出的只是下限（至迟年代），给不出上限——东西造出来的时候，它所依据的那套知识多半已经在用，用了多久，实物不回答。随后指出「四象」一词实际叠着三层：二十八个星名凑成一份闭合名单；名单按四方切成四组，每组七个；四组各配一种动物。三层不必同时到齐，可以分先后出现，也可以走到第二层就停住。</p><p>据此，文中把三层各自的至迟年代分开排定：龙虎配东西两方、中间配北斗，可追到距今 6460±135 年（河南濮阳西水坡 45 号墓蚌塑，蚌壳碳十四测定经树轮校正；该墓无一星名，与二十八宿无关）；二十八个名称与次序成一套，至迟在公元前 433 年前后（曾侯乙墓漆箱 E.66，盖上朱书二十八宿名，中央篆书「斗」，圈外两侧绘龙、虎）；二十八宿按四方分四组各配一兽，至迟在东汉（张衡《灵宪》；西汉《史记·天官书》四宫之中，西宫尚作「咸池」，非兽名）。</p><p>文中并述几处旁证：《周礼·春官》冯相氏「二十有八星之位」有数目而无名单；《吕氏春秋·有始》所载宿名成批出现，分法却是九野九块，非四方各七；清华简《五纪》（战国中晚期楚地文献）所载宿名与漆箱不尽相同；《淮南子·天文训》五方配五兽，中央多一黄龙。另有「四象在漆箱六面齐备」一说，文中说明它依赖的是纹样辨认，与文字直证的分量不同，两者分开算。</p><p>本文属中国传统历法与古代天文星象的科普整理，所述天文事实以传世文献与考古材料为依据。文中不含预测性论断，亦不涉个体测算。</p><p>（本预印本未经同行评议。）</p><p><strong>Data and code.</strong> The calendrical data underlying this series is openly available at <a href=\"https://doi.org/10.5281/zenodo.22788686\">10.5281/zenodo.22788686</a> (code: <a href=\"https://github.com/Kuangchujia/chinese-calendar-dataset\">github.com/Kuangchujia/chinese-calendar-dataset</a>). 中文版与英文版同投本记录，两个文件、一个 DOI。See also the full index at <a href=\"https://kuangchujia.com/publications/\">kuangchujia.com/publications</a>.</p>",
+  "creators": [
+    {
+      "name": "Kuang, Chujia",
+      "orcid": "0009-0002-7650-833X"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22788686",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://kuangchujia.com/2026/09/29/%e6%9b%be%e4%be%af%e4%b9%99%e5%a2%93%e6%bc%86%e7%ae%b1%e4%ba%8c%e5%8d%81%e5%85%ab%e5%ae%bf%e5%9b%be%ef%bc%9a%e5%9b%9b%e8%b1%a1%e4%bd%93%e7%b3%bb%e7%9a%84%e4%b8%8b%e9%99%90/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kuangchujia.com/2026/09/29/the-twenty-eight-mansions-on-the-lacquer-box-from-the-tomb-of-marquis-yi-of-zeng-a-lower-bound-for-the-four-images/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article",
+      "scheme": "url"
+    }
+  ],
+  "keywords": [
+    "曾侯乙墓",
+    "漆箱二十八宿图",
+    "二十八宿",
+    "四象",
+    "西水坡",
+    "下限",
+    "至迟年代",
+    "战国天文学",
+    "汉代天文学",
+    "Marquis Yi of Zeng",
+    "twenty-eight mansions",
+    "four images",
+    "terminus ante quem"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "zho",
+  "notes": "本文为科普整理稿的对外预印本，未经同行评议。作者姓名：邝楚嘉（Chujia Kuang）。本记录含中文与英文两个文件，同一 DOI。"
+}

@@ -2,15 +2,13 @@
 
 <!-- badges -->
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Preprints](https://img.shields.io/badge/preprints-11-blue.svg)](https://kuangchujia.github.io/kuangchujia-preprints/) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Preprints](https://img.shields.io/badge/preprints-12-blue.svg)](https://kuangchujia.github.io/kuangchujia-preprints/) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
 
 本仓库是「中国历法与传统天文星象」系列科普稿的**预印本镜像**，与发表在 **Zenodo** 上的预印本记录一一对应。写这些稿子，起因是一堆日常里被反复问到的问题：立春那天出生的孩子生肖该按哪个算、古人没有钟表怎么知道现在是几点、黄道和白道到底差在哪儿。这些问题看着零碎，底下其实是同一套历法与星象的知识，于是索性按顺序一篇篇写下来，写成一份可以按需查阅的整理稿。
 
 **正式引用请使用各篇的 Zenodo DOI**（见下表；表内各号为 **concept DOI**，永久指向最新版本）。
 
 **站点入口（本仓库 Pages 首页 · 篇目与 PDF 直链）**：<https://kuangchujia.github.io/kuangchujia-preprints/>
-
-*This repository mirrors the preprint series "Chinese Calendar and Traditional Astronomy", corresponding one for one with the preprint records published on Zenodo. The series began with questions that come up again and again in daily life: which zodiac year a child born on the first day of spring belongs to; how people knew the time without clocks; where exactly the ecliptic and the lunar path part ways. They look scattered, yet the same calendar and the same star system sit underneath, so the pieces were written out one by one, in order. **For formal citation, please use the Zenodo DOI of each piece** — the numbers in the table are concept DOIs, pointing permanently to the latest version. Site entry (this repository's Pages index, with links to each piece and its PDF): <https://kuangchujia.github.io/kuangchujia-preprints/>*
 
 <!-- ANCHOR-BLOCK-BEGIN -->
 ## ★ 本项目在学术网络中的位置
@@ -33,7 +31,7 @@
 **配套数据集**：本系列所依据的历法公共数据集（二十四节气交节时刻、历代历法改革年表、干支纪日对照表）见 <https://github.com/Kuangchujia/chinese-calendar-dataset>，Zenodo concept DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)。该数据集由生成脚本自算而成，可复算、可核验，凡引用本系列任一预印本，如需追溯到具体的节气时刻或干支日序，请一并注明该数据集的 DOI。
 <!-- ANCHOR-BLOCK-END -->
 
-## 篇目（已发布 11／11）
+## 篇目（已发布 12／12）
 
 | 篇号 | 标题 | Zenodo DOI | 状态 |
 |:--:|:---|:---|:---|
@@ -48,6 +46,7 @@
 | 010 | 古人的星空：三垣与二十八宿 | [10.5281/zenodo.22797854](https://doi.org/10.5281/zenodo.22797854) | ✅ 已发布 |
 | 011 | 没有指南针，古人怎么定方向 | [10.5281/zenodo.22948873](https://doi.org/10.5281/zenodo.22948873) | ✅ 已发布 |
 | 012 | 干支：从一棵树到二十二个字 | [10.5281/zenodo.22949963](https://doi.org/10.5281/zenodo.22949963) | ✅ 已发布 |
+| C003 | 曾侯乙墓漆箱二十八宿图：四象体系的下限 | [10.5281/zenodo.23032029](https://doi.org/10.5281/zenodo.23032029) | ✅ 已发布 |
 
 > **同步规则**：PDF **只收录已正式发布（已分配 DOI）的篇目**。Zenodo 在发布时会用预保留 DOI 重出 PDF，故未发布的版本与正式版并不一致——与其先推一份「待替换」的，不如发布后一次到位。未发布篇目的书目数据仍见 metadata/。
 
