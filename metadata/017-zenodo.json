@@ -1,0 +1,32 @@
+{
+  "title": "一年为什么被切成二十四段",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>本文说明一年为何被切成二十四段。文章指出节气的划分不是随意的：国家标准 GB/T 33661-2017《农历的编算和颁行》把节气定义为一个回归年内太阳地心视黄经等于 15 度整数倍的时刻，三百六十除以十五得二十四；黄道 0 度定在春分点，自春分 0 度至冬至 270 度走满一圈。因公历与节气量的是同一个太阳，两者刻度对齐，节气的公历日期年际浮动不过一两天，而在农历里前后能差出一个月。二十四个名字分两批：八个分太阳的关键节点，十六个分更细的气候变化；再按节与气各十二个分为两组，节在月首、气在月中，排盘时月柱的界线只认节。本文另辨「气」与「候」两把尺子差半拍——气讲盘上的节律，候讲地上看得见的物候，候比气慢约一个月建；并分疏「气」字在历法里的三种用法。二十四个名字最早完整见于西汉《淮南子·天文训》，其序自冬至起头；《史记·太史公自序》一句话带过「二十四节」而未列名。本文属中国传统历法与古代天文星象的科普整理，所述天文事实以传世文献与国家标准为依据。文中不含预测性论断，亦不涉个体测算。</p><p>（本预印本未经同行评议。）</p><p><strong>Data and code.</strong> The calendrical data underlying this note is openly available at <a href=\"https://doi.org/10.5281/zenodo.22788686\">10.5281/zenodo.22788686</a> (code: <a href=\"https://github.com/Kuangchujia/chinese-calendar-dataset\">github.com/Kuangchujia/chinese-calendar-dataset</a>). See also the full index at <a href=\"https://kuangchujia.com/publications/\">kuangchujia.com/publications</a>.</p>",
+  "creators": [
+    {
+      "name": "Kuang, Chujia",
+      "orcid": "0009-0002-7650-833X"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22788686",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    }
+  ],
+  "keywords": [
+    "二十四节气",
+    "太阳黄经",
+    "黄道",
+    "GB/T 33661-2017",
+    "节与气",
+    "候",
+    "淮南子·天文训"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "zho",
+  "notes": "本文为科普整理稿的对外预印本，未经同行评议。作者姓名：邝楚嘉。"
+}
