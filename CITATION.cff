@@ -12,8 +12,8 @@ authors:
   - family-names: "邝"
     given-names: "楚嘉"
     alias: "虚竹"
-version: "1.0.0"
-date-released: "2026-09-16"
+version: "1.1.0"
+date-released: "2026-10-03"
 license: "CC-BY-4.0"
 language: "zho"
 keywords:
