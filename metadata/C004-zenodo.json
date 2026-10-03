@@ -1,0 +1,52 @@
+{
+  "title": "圭表测影与「日至」：登封观星台之前的实测传统",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>本文以河南登封告成镇的元代观星台为起点，回溯它之前两千余年的日影实测传统。文章先立一条分界：同一根杆子、同一个影子，古人从中读过两样东西——影子方向用来正东西（《周礼·考工记》《周髀算经》所记「一杆、一圆、两影」），影子长短用来定节令。本文讲的是后一样。</p><p>其次辨明「日至」一词。它说的是太阳走到极处的那一刻，一年两回：影最长者为「日南至」（冬至），影最短者为「日北至」（夏至）。甲骨卜辞中已有此二字，董作宾《殷历谱》内立《日至谱》专卷；《左传·僖公五年》「春，王正月，辛亥朔，日南至」与《左传·昭公二十年》「春王二月己丑，日南至」是传世文献中最早的冬至记录，后者因历官排漏闰月而节气错位，杜预以后的注家据《汉书·律历志》指出这一点。文中并说明「日至」不专指冬至：《周礼·地官·大司徒》「日至之景，尺有五寸」说的是夏至。2018 年湖北荆州胡家草场 M12 出土西汉简牍四千余枚，其中一卷简背题作「日至」，记汉武帝建元元年起约百年间八个节气日的推定，写在《太初历》颁行之前，说明当时人已把「日至」用作一卷历谱的名字。</p><p>再次述器具与实物。垂直者的叫「表」，水平带刻度者的叫「圭」；《周髀算经》开篇「周髀长八尺，夏至之日晷一尺六寸」给出了长期沿用的八尺表制。2002 年山西襄汾陶寺遗址 ⅡM22 出土一根漆木杆，残长 171.8 厘米，通身黑漆与石绿漆段相间，自下端 39.9 厘米处有一道标记，折陶寺尺（一尺约 25 厘米）正是一尺六寸，与《周髀算经》的夏至影长相合；同墓另出一根红彩立表，按陶寺尺折算整器约九尺，用时可留八尺在地上。研究者判断这是目前所见最早的圭表仪器实物，年代距今约 4300 至 4000 年。文中特别指出：形制、刻度与同出器物三者相合可支持「圭尺」的判断，但杆上无文字自证，故属一说，不能反过来证明四千年前的人曾用它测出冬至；2009 年夏至以等大复制品所作的实测，只说明方法与器物可行，不构成历史行为的证明。</p><p>最后落到「地中」与「岁实」。文中指出「地中」的判据是一个读数：夏至正午、八尺表的影子长一尺五寸（《周礼·地官·大司徒》；郑玄注引郑众说，并指「今颍川阳城地为然」）。陶寺刻 1.6 尺、阳城标准 1.5 尺，相差一寸是纬度差出来的，故「地中」随读数而移——司马光《日景图》（王应麟《困学纪闻》卷九引）谓周在洛邑、汉在颍川阳城、唐在汴州浚仪。文中说明此标准不只是天文问题，长期主持陶寺发掘的何驽以「王者逐中」概括之；「中国」之「中」的源头即在此。岁实一节引刘昭补《后汉书·律历志》「四周千四百六十一日，而景复初」，说明连续记录冬至影长，须至第四年影子方回起点，以四除之得 365.25 日，即「四分历」名称的来处，并述其后登封自东汉郑玄点名成为「地中」默认位置，唐代姚玄辩、南宫说先后在此测影刻表，元代郭守敬为「四海测验」立二十七处观测点，登封观星台即其一，其覆斗状台身为表、台下石圭为尺、「景符」用以收束高表影子边缘。</p><p>本文属中国传统历法与古代天文星象的科普整理，所述天文事实以传世文献与考古材料为依据。文中不含预测性论断，亦不涉个体测算。</p><p>（本预印本未经同行评议。）</p><p><strong>Data and code.</strong> The calendrical data underlying this series is openly available at <a href=\"https://doi.org/10.5281/zenodo.22788686\">10.5281/zenodo.22788686</a> (code: <a href=\"https://github.com/Kuangchujia/chinese-calendar-dataset\">github.com/Kuangchujia/chinese-calendar-dataset</a>). 中文版与英文版同投本记录，两个文件、一个 DOI。See also the full index at <a href=\"https://kuangchujia.com/publications/\">kuangchujia.com/publications</a>.</p>",
+  "creators": [
+    {
+      "name": "Kuang, Chujia",
+      "orcid": "0009-0002-7650-833X"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22788686",
+      "relation": "isPartOf",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://kuangchujia.com/2026/10/03/%e5%9c%ad%e8%a1%a8%e6%b5%8b%e5%bd%b1%e4%b8%8e%e3%80%8c%e6%97%a5%e8%87%b3%e3%80%8d%ef%bc%9a%e7%99%bb%e5%b0%81%e8%a7%82%e6%98%9f%e5%8f%b0%e4%b9%8b%e5%89%8d%e7%9a%84%e5%ae%9e%e6%b5%8b%e4%bc%a0%e7%bb%9f/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kuangchujia.com/2026/10/03/the-gnomon-and-the-sun-at-its-utmost-an-empirical-tradition-of-shadow-measurement-before-the-dengfeng-observatory/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article",
+      "scheme": "url"
+    }
+  ],
+  "keywords": [
+    "圭表",
+    "日至",
+    "土圭",
+    "地中",
+    "陶寺",
+    "登封观星台",
+    "四分历",
+    "岁实",
+    "日影测长",
+    "周髀算经",
+    "gnomon",
+    "shadow measurement",
+    "Taosi",
+    "Dengfeng Observatory",
+    "quarter-day calendar"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open",
+  "language": "zho",
+  "notes": "本文为科普整理稿的对外预印本，未经同行评议。作者姓名：邝楚嘉（Chujia Kuang）。本记录含中文与英文两个文件，同一 DOI。"
+}
