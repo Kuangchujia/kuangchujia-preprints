@@ -2,7 +2,7 @@
 
 <!-- badges -->
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Preprints](https://img.shields.io/badge/preprints-15-blue.svg)](https://kuangchujia.github.io/kuangchujia-preprints/) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![Preprints](https://img.shields.io/badge/preprints-16-blue.svg)](https://kuangchujia.github.io/kuangchujia-preprints/) [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com)
 
 本仓库是「中国历法与传统天文星象」系列科普稿的**预印本镜像**，与发表在 **Zenodo** 上的预印本记录一一对应。写这些稿子，起因是一堆日常里被反复问到的问题：立春那天出生的孩子生肖该按哪个算、古人没有钟表怎么知道现在是几点、黄道和白道到底差在哪儿。这些问题看着零碎，底下其实是同一套历法与星象的知识，于是索性按顺序一篇篇写下来，写成一份可以按需查阅的整理稿。
 
@@ -33,7 +33,7 @@
 **配套数据集**：本系列所依据的历法公共数据集（二十四节气交节时刻、历代历法改革年表、干支纪日对照表）见 <https://github.com/Kuangchujia/chinese-calendar-dataset>，Zenodo concept DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)。该数据集由生成脚本自算而成，可复算、可核验，凡引用本系列任一预印本，如需追溯到具体的节气时刻或干支日序，请一并注明该数据集的 DOI。
 <!-- ANCHOR-BLOCK-END -->
 
-## 篇目（已发布 15／15）
+## 篇目（已发布 16／16）
 
 | 篇号 | 标题 | Zenodo DOI | 状态 |
 |:--:|:---|:---|:---|
@@ -50,6 +50,7 @@
 | 012 | 干支：从一棵树到二十二个字 | [10.5281/zenodo.22949963](https://doi.org/10.5281/zenodo.22949963) | ✅ 已发布 |
 | C003 | 曾侯乙墓漆箱二十八宿图：四象体系的下限 | [10.5281/zenodo.23032029](https://doi.org/10.5281/zenodo.23032029) | ✅ 已发布 |
 | C004 | 圭表测影与「日至」：登封观星台之前的实测传统 | [10.5281/zenodo.23113570](https://doi.org/10.5281/zenodo.23113570) | ✅ 已发布 |
+| C005 | 「颛顼历」与秦至汉初历法的考古证据 | [10.5281/zenodo.23149213](https://doi.org/10.5281/zenodo.23149213) | ✅ 已发布 |
 | 013 | 十个字配十二个字，为什么只剩六十组 | [10.5281/zenodo.22990186](https://doi.org/10.5281/zenodo.22990186) | ✅ 已发布 |
 | 017 | 一年为什么被切成二十四段 | [10.5281/zenodo.23077184](https://doi.org/10.5281/zenodo.23077184) | ✅ 已发布 |
 
